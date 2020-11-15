@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <div className="calculator-container">
           <div className="one">
-            <p className="parOne">59 x 89 / 34 + 789 - 69</p>
+            <p className="parOne">59 x 89 &divide; 34 + 789 - 69</p>
           </div>
           <div className="two">
             <p className="parTwo">874.441176</p>
